@@ -26,6 +26,7 @@ div {
     font-size: 20px;
     text-align: left;
     font-family: "Courier New", Times, monospace;
+    font-weight: 10px;
 }
 
 #answers {
