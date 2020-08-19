@@ -1,2 +1,2 @@
 # mywebsite
-My Minimalist Portfolio Website
+My Portfolio Website
