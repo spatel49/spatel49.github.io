@@ -4,47 +4,37 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: white;
-    background-color: black;
+    background: linear-gradient(253deg, #0cc898, #1797d2, #0cc898,#1797d2);
+    background-size: 400% 400%;
+
 }
 
-div {
-    padding: 10px;
-    margin-bottom: 10px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
+#name {
+    line-height: 400px;
+    text-align: center;
+    color: white;
+    font-size: 120px;
+    font-weight: normal;
 }
 
-#intro {
-    background-color: black;
-}
-
-#intro ul {
-    list-style-type: none;
-    margin: 120px;
-    color: green;
-    font-size: 20px;
-    text-align: left;
-    font-family: "Courier New", Times, monospace;
-    font-weight: 40px;
-}
-
-#answers {
-    margin-left: 20px;
-    margin-bottom: 10px;
-}
-a:link {
-    color: green;
-    background-color: transparent;
+.socials{
+    position: absolute;
+    display: inline-block;
+    bottom: 10%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%,-50%);
     text-decoration: none;
+    text-shadow: 1px 2px 1px rgba(0, 0, 0, .6);
 }
-a:hover {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
+.socials span{
+    border-radius: 50%;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    margin: 30px;
+    transition: all .5s ease 0s;
+    cursor: pointer;
 }
-a:active {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-}
+
+
