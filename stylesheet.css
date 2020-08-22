@@ -33,3 +33,18 @@ div {
     margin-left: 20px;
     margin-bottom: 10px;
 }
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
