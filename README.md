@@ -1,2 +1,2 @@
 # mywebsite
-My Portfolio Website
+A simple one-page website with links to my socials and resume.
