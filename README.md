@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://sidpatel.github.io)
+[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://spatel49.github.io)
 
-**[View Live Preview](https://sidpatel.github.io)**
+**[View Live Preview](https://spatel49.github.io)**
 
 ## Status
 
